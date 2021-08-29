@@ -10,8 +10,7 @@ function App() {
        <input type="text" placeholder= "name"/>
        <label>last name</label>
        <input type="text" placeholder= "name"/>
-       <label>Email:</label>
-       <input type="text" placeholder= "email"/>
+      <h1>hello</h1>
 
      </form>
     </div>
