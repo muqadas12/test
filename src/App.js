@@ -7,6 +7,10 @@ function App() {
      <h1>helo world</h1>
      <form>
        <label>First name</label>
+       <input type="text" placeholder= "name"/>
+       <label>last name</label>
+       <input type="text" placeholder= "name"/>
+
      </form>
     </div>
   );
