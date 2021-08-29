@@ -11,6 +11,9 @@ function App() {
        <label>last name</label>
        <input type="text" placeholder= "name"/>
       <h1>hello</h1>
+      <label>email</label>
+      <input type="text" placeholder= "name"/>
+
 
      </form>
     </div>

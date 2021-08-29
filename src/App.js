@@ -12,6 +12,8 @@ function App() {
        <input type="text" placeholder= "name"/>
        <label>Email:</label>
        <input type="text" placeholder= "email"/>
+       <label>Password:</label>
+       <input type="text" type="password" placeholder= "pswd"/>
 
      </form>
     </div>
